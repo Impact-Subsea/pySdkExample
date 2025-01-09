@@ -10,5 +10,5 @@ Impact Subsea Python SDK example app written in python
 
 3. Run
     ```bash
-    $ python sdk.py
+    $ python main.py
     ```
